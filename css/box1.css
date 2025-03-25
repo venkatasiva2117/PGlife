@@ -1,0 +1,17 @@
+a{
+   border: solid 1px black;
+   display: inline-block;
+   background-color: aqua;
+}
+h1{
+   display: block;
+}
+p{
+   display: inline-block;
+}
+li{
+   display: inline-block;
+}
+img{
+   display: block;
+}

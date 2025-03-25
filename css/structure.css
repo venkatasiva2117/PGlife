@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+.row1{
+    border: solid 1px blue;
+    height: 150px;
+    font-size: 0px;
+
+}
+.col1{
+    border: solid 2px black;
+    height: 100%;
+    display: inline-block;
+    width: 33.33%;
+
+}
+.col2{
+    border: solid 2px orangered;
+    height: 100%;
+    display: inline-block;
+    width: 50%;
+}
+.row2{
+    border: solid 1px purple;
+    height: 75px;
+}
+.col3{
+    border: solid 2px red;
+    height: 100%;
+    display: inline-block;
+    width: 33.33%;
+}
+.row3{
+    border: solid 2px black;
+    height: 75px;
+    
+}
+.col4{
+    border: solid 2px maroon;
+    height: 100%;
+    display: inline-block;
+    width: 25%;
+}
+.row4{
+    border: solid 2px darkgreen;
+    height: 75px;
+}

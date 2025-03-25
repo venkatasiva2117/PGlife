@@ -1,0 +1,27 @@
+.container{
+    border: groove 3px black;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 0px;
+    align-items: center;
+
+}
+.container > div{
+    border: solid 2px red;
+    border-radius: 25px;
+    text-align: center;
+}
+.one{
+    flex: 0 1 200px;
+    align-self: flex-end;
+}
+.two{
+    flex: 0 1 200px;
+    align-self: flex-start;
+
+}
+.three{
+    flex: 0 1 200px; 
+    align-self: stretch;
+}

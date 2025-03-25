@@ -1,0 +1,42 @@
+*{
+    block-size: border-box;
+}
+h1{
+    background-color: red;
+    padding: 20px 40px 20px 40px;
+    margin-left: 55px;
+}
+.a{
+    background: chocolate;
+    padding: 20px;
+    border: dashed red;
+    margin: 20px 20px 20px 20px;
+    height: 200px;
+    width: 200px;
+
+}
+.b{
+    border: solid red;
+    background-color: rgb(36, 116, 148);
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    height: 100px;
+    width: 300px;
+    
+    
+
+}
+.c{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    background: brown;
+    padding: 20px;
+
+}
+.d{
+
+}
